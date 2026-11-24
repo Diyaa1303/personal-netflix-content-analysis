@@ -16,7 +16,7 @@ The data is the Kaggle dataset [Netflix Movies and TV Shows](https://www.kaggle.
 
 ## Dashboard
 
-![Netflix dashboard](dashboard/dashboard.png)
+![Netflix dashboard]Dashboard_SQL.png
 
 ## Queries
 
