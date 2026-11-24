@@ -14,9 +14,6 @@ The data is the Kaggle dataset [Netflix Movies and TV Shows](https://www.kaggle.
 4. How long after release does a title reach Netflix?
 5. Which genres appear most often?
 
-## Dashboard
-
-![Netflix dashboard]Dashboard_SQL.png
 
 ## Queries
 
